@@ -91,6 +91,7 @@ or
 ```
 nginx -R
 ```
+  
 If ok  
 ```
 nginx -s reload
@@ -99,5 +100,5 @@ nginx -s reload
 ## Documentations
 
 For more informations on ModSecurity :  
-https://github.com/SpiderLabs/ModSecurity-nginx
-https://github.com/SpiderLabs/ModSecurity
+https://github.com/SpiderLabs/ModSecurity-nginx  
+https://github.com/SpiderLabs/ModSecurity  
