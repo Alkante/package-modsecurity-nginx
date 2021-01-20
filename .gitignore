@@ -1,0 +1,9 @@
+*
+!/.gitignore
+!/docker
+!/docker/**
+!/files
+!/files/**
+!/make.sh
+!/README.md
+!/update_mirror.sh
